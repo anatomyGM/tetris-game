@@ -277,7 +277,7 @@ def dibujar_siguiente_forma(forma, superficie):
 
 def dibujar_ventana(superficie, cuadricula, puntuacion=0):
     """
-    Dibuja todos los elementos en la ventana del juego.
+    Dibuja todos los elementos en la ventana del juego. 
     """
     superficie.fill(NEGRO)
 
